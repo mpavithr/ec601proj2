@@ -44,3 +44,16 @@ I iterated through the list of tweets in the response and print the text of each
 #### Results: The program successfully searches for tweets that contain the specified hashtag and prints the text of each tweet to the console.
 
 ## Phase 1 a: Google NLP APIs
+
+### Test Program 1: Analyzing the sentiment of text strings
+
+The objective is to analyze the sentiment of text strings. After authentication and initializng Google NLP Client, I used a text to analyze the sentiment.
+
+#### Results: The program sucessfully prints out scores for sentiments.
+
+### Test Program 2: Analyzing the sentiment of text on page
+
+The objective is to analyze the sentiment of text on pages. After authentication and initializng Google NLP Client, I used a text to analyze the sentiment of a random news page.
+
+#### Results: The program sucessfully prints out scores for sentiments.
+
