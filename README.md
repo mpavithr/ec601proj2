@@ -3,7 +3,7 @@ This repository contains work for EC601 Project 2
 
 ## Phase 1 a: Twitter APIs
 
-Test Program 1: Retrieving Tweets
+### Test Program 1: Retrieving Tweets
 
 The objective is to retrieve a list of tweets from a specific user's timeline.
 
@@ -15,11 +15,9 @@ Then I specified the user's screen name in the endpoint parameters and set the n
 
 I executed the API request and stored the response in a variable and iterated through the list of tweets in the response and printed the text of each tweet to the console.
 
-Results:
+#### Results: The program successfully retrieves a list of tweets from the specified user's timeline and prints the text of each tweet to the console.
 
-The program successfully retrieves a list of tweets from the specified user's timeline and prints the text of each tweet to the console.
-
-Test Program 2: Searching by Time
+### Test Program 2: Searching by Time
 
 The objective is to search for tweets that were created within a specific time frame.
 
@@ -31,11 +29,9 @@ I executed the API request and stored the response in a variable.
 
 I iterated through the list of tweets in the response and print the text of each tweet to the console.
 
-Results:
+#### Results: The program successfully searches for tweets that were created within the specified time frame and prints the text of each tweet to the console.
 
-The program successfully searches for tweets that were created within the specified time frame and prints the text of each tweet to the console.
-
-Test Program 3: Searching by Hashtag
+### Test Program 3: Searching by Hashtag
 
 The objective is to search for tweets that contain a specific hashtag.
 
@@ -45,6 +41,4 @@ I executed the API request and stored the response in a variable.
 
 I iterated through the list of tweets in the response and print the text of each tweet to the console.
 
-Results:
-
-The program successfully searches for tweets that contain the specified hashtag and prints the text of each tweet to the console.
+####Results: The program successfully searches for tweets that contain the specified hashtag and prints the text of each tweet to the console.
