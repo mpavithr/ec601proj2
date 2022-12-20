@@ -42,3 +42,5 @@ I executed the API request and stored the response in a variable.
 I iterated through the list of tweets in the response and print the text of each tweet to the console.
 
 #### Results: The program successfully searches for tweets that contain the specified hashtag and prints the text of each tweet to the console.
+
+## Phase 1 a: Google NLP APIs
