@@ -57,3 +57,24 @@ The objective is to analyze the sentiment of text on pages. After authentication
 
 #### Results: The program sucessfully prints out scores for sentiments.
 
+## Phase 2: 
+
+Social Media Analyzer: 
+
+Minimum Viable Product: A social media analyzer that can analyze the sentiment of tweets and Facebook posts for a given user or topic.
+
+User: A business owner or celebrity or someone who is interested in understanding the sentiment of their social media presence.
+
+User Stories:
+
+As a user, I want to be able to input a Twitter handle or hashtag to analyze the sentiment of the tweets associated with it.
+As a user, I want to be able to input a Facebook page or topic to analyze the sentiment of the posts associated with it.
+As a user, I want to see a visual representation of the overall sentiment analysis (e.g. a bar chart).
+As a user, I want to be able to view the individual tweets or posts that were analyzed and their associated sentiment scores.
+
+Modular Design:
+
+Module 1: Twitter sentiment analysis
+Module 2: Facebook/Instagram sentiment analysis
+Module 3: Visual representation of sentiment analysis
+Module 4: Individual tweet/post view with sentiment scores
