@@ -3,6 +3,12 @@ This repository contains work for EC601 Project 2
 
 ## Phase 1 a: Twitter APIs
 
+### Authentication and keys
+
+![Screenshot1](authentication1.png)
+
+![Screenshot1](apikeys1.png)
+
 ### Test Program 1: Retrieving Tweets
 
 The objective is to retrieve a list of tweets from a specific user's timeline.
