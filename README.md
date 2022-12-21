@@ -5,9 +5,11 @@ This repository contains work for EC601 Project 2
 
 ### Authentication and keys
 
-![Screenshot1](authentication1.png)
+Firstly, have to create a twitter developer account to get authenticated.
+https://user-images.githubusercontent.com/42751267/208864517-6d7f02f6-65e5-4b03-87cf-750e5f6b3a42.PNG
 
-![Screenshot1](apikeys1.png)
+Then, can get the API keys for the tests to test the API, (cutting out the keys and secret values, to keep it private)
+https://user-images.githubusercontent.com/42751267/208864469-dbd61dc8-f8db-4681-80f3-6821d9170825.PNG
 
 ### Test Program 1: Retrieving Tweets
 
