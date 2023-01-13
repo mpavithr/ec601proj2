@@ -1,5 +1,4 @@
-# ec601proj2
-This repository contains work for EC601 Project 2
+# Testing twitter and google NLP API
 
 ## Phase 1 a: Twitter APIs
 
